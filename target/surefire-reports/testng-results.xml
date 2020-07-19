@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-19T12:41:33 IST" name="Surefire suite" finished-at="2020-07-19T12:41:34 IST" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2020-07-19T12:41:33 IST" name="Surefire test" finished-at="2020-07-19T12:41:34 IST" duration-ms="34">
+      <class name="org.compare.test.ComparatorTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.compare.test.ComparatorTest@2bea5ab4]" started-at="2020-07-19T12:41:34 IST" name="setUp" finished-at="2020-07-19T12:41:34 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="weatherComparator()[pri:0, instance:org.compare.test.ComparatorTest@2bea5ab4]" started-at="2020-07-19T12:41:34 IST" name="weatherComparator" finished-at="2020-07-19T12:41:34 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weatherComparator -->
+      </class> <!-- org.compare.test.ComparatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
